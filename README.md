@@ -15,3 +15,10 @@ This site allows you to enter a command line to see help text that matches each 
 [Explain Shell](https://explainshell.com/)
 
 I hope you find this helpful! :)
+
+## Markdown on Github
+
+*I like the option of Markdown on Github and I hope you find these as helpful as I did!*
+
+1. [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
