@@ -1,5 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
+* Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
 
 ## Contributing to this Repository
 
