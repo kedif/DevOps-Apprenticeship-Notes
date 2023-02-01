@@ -1,5 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
+Cool stuffs 
+https://github.com/Shift3/DevOps-Apprenticeship-Notes/issues/6
 
 ## Contributing to this Repository
 
