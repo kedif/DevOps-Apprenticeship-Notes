@@ -1,4 +1,6 @@
 # DevOps-Apprenticeship-Notes
+## Emotional Intelligence
+Emotional intelligence at work: Why IQ isn't everything: https://youtu.be/7ngIFlmRRPQ
 
 
 ## Contributing to this Repository
