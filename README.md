@@ -3,6 +3,7 @@
 Cool stuffs 
 https://github.com/Shift3/DevOps-Apprenticeship-Notes/issues/6
 Just to check it again : https://docs.github.com/en/get-started/quickstart/set-up-git
+Added another link :https://ourtechroom.com/tech/https-vs-ssh-in-git/
 
 ## Contributing to this Repository
 
