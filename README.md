@@ -2,6 +2,8 @@
 
 * Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
 
+*  adding some tfswitch vedio. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
