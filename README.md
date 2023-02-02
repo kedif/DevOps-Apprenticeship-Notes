@@ -1,5 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
+* CodeAcademy: Learn Git & GitHub https://www.codecademy.com/learn/learn-git
 
 ## Contributing to this Repository
 
