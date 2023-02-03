@@ -1,4 +1,6 @@
 # DevOps-Apprenticeship-Notes
+## Emotional Intelligence
+Emotional intelligence at work: Why IQ isn't everything: https://youtu.be/7ngIFlmRRPQ
 
 ##  Terraform Video Resources
 * From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
