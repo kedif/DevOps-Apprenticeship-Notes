@@ -29,8 +29,8 @@ mac-6-add-sp-link
 #### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 #### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
 
-<<<<<<< HEAD
-## This is my fourth PR!
+
+
 =======
 ## This is my fourth PR
 
@@ -54,7 +54,3 @@ I hope you find this helpful! :)
 ##### This is my 3rd pull request... 
 
 #### PULL REQUESTS FOR BRAGGING RIGHTS 
-
-* Please post your pull requests below. 
-* development
->>>>>>> a9c0a43e0970ca42bda61dc14096b1627ce88132
