@@ -13,6 +13,14 @@ https://www.youtube.com/watch?v=YcJ9IeukJL8:
 https://www.youtube.com/watch?v=SLB_c_ayRMo: 
 https://www.youtube.com/watch?v=gx311756mmmkdkdj
 
+* Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
+
+* adding some tfswitch vedio. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+
+
+  
+Terraform Cheat Sheet 
+* https://www.google.com/search?q=exampro+terraform&ei=Nn_IY5GcIoe70PEPzu62qAQ&oq=exam[…]wAHgAgAGTAYgBxwKSAQMyLjGYAQCgAQHIAQPAAQE&sclient=gws-wiz-serp
 
 ## Contributing to this Repository
 
