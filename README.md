@@ -1,6 +1,4 @@
 # DevOps-Apprenticeship-Notes
-## Emotional Intelligence
-Emotional intelligence at work: Why IQ isn't everything: https://youtu.be/7ngIFlmRRPQ
 
 ##  Terraform Video Resources
 * From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
@@ -31,6 +29,12 @@ Terraform Cheat Sheet
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
 
+## Emotional Intelligence training
+
+1. [Emotional intelligence at work: Why IQ isn't everything](https://youtu.be/7ngIFlmRRPQ)
+
+2. [Ted talk on The Secret to High Performance and Fulfilment](https://youtu.be/HTfYv3IEOqM) 
+
 
 Important git commands to know with example and explanation 
 # [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
@@ -52,9 +56,5 @@ I hope you find this helpful! :)
 1. [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 2. [Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 
+*Please post your pull requests below.*
 
-##### This is my 3rd pull request... 
-
-#### PULL REQUESTS FOR BRAGGING RIGHTS 
-
-* Please post your pull requests below. *
