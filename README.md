@@ -1,6 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
 
+
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
@@ -9,10 +10,7 @@
 
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
-*All combined notes, links and documents are listed below:*
-
-
-
+*All combined notes, links and documents are listed below:
 
 
 ## Git Commands
@@ -61,6 +59,11 @@
 - [Emotional intelligence at work: Why IQ isn't everything](https://youtu.be/7ngIFlmRRPQ)
 
 - [Ted talk on The Secret to High Performance and Fulfilment](https://youtu.be/HTfYv3IEOqM) 
+
+## Word Press
+
+### 1. Video Resources
+- [What is WordPress](https://www.youtube.com/watch?v=c7kxhwxific)
 
 
 ## General Helpful Links 
