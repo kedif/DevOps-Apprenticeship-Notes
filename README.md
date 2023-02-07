@@ -1,5 +1,8 @@
 # DevOps-Apprenticeship-Notes
 
+ fm-6-add-coolstuffs-links
+https://www.youtube.com/watch?v=c7kxhwxific
+
 ##  Terraform Video Resources
 * From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
 * Freecodecamp: https://www.youtube.com/watch?v=SLB_c_ayRMo
@@ -20,6 +23,7 @@ https://www.youtube.com/watch?v=gx311756mmmkdkdj
 Terraform Cheat Sheet 
 * https://www.google.com/search?q=exampro+terraform&ei=Nn_IY5GcIoe70PEPzu62qAQ&oq=exam[…]wAHgAgAGTAYgBxwKSAQMyLjGYAQCgAQHIAQPAAQE&sclient=gws-wiz-serp
 
+ development
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
