@@ -10,7 +10,6 @@
 
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
-nn-6-MyContribution
 
 ### Terraform
 - [How to use Terraform with AWS](https://www.youtube.com/watch?v=iRaai1IBlB0)
@@ -81,4 +80,3 @@ nn-6-MyContribution
 
 
 
-development
