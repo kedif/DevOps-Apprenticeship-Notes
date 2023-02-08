@@ -20,6 +20,8 @@
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
+## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
+
 
 ## Markdown on Github
 
