@@ -1,5 +1,10 @@
 # DevOps-Apprenticeship-Notes
 
+
+
+* Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
+
+
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
@@ -25,6 +30,8 @@
 - [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
+
+## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 
 
 ## Markdown on Github
