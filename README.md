@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=SLB_c_ayRMo:
 https://www.youtube.com/watch?v=gx311756mmmkdkdj
 
 
-## 
+
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
@@ -22,17 +22,22 @@ https://www.youtube.com/watch?v=gx311756mmmkdkdj
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
 
-mac-6-add-sp-link
+## Useful documents, DevOps resource link and Git Cheat sheet
+
+![Alt text](https://i.imgur.com/Q5EKfNY.jpg)
+
+![Alt text](https://i.imgur.com/bh8rIQq.jpg)
+
+#### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
+#### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)https://i.imgur.com/Q5EKfNY.jpg
+#### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
 #### [Github Documentation](https://docs.github.com/en/github)
-### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
+#### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
 #### [Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
 #### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 #### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
 
 
-
-=======
-## This is my fourth PR
 
 
 ## Explain Shell Link 
