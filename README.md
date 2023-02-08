@@ -1,8 +1,5 @@
 # DevOps-Apprenticeship-Notes
 
-
-
-## 
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
@@ -13,14 +10,11 @@
 
 *All combined notes, links and documents are listed below:
 
-mac-6-add-sp-link
 #### [Github Documentation](https://docs.github.com/en/github)
-### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
+#### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
 #### [Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
 #### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 #### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
-
-
 
 
 ## This is my fourth PR
@@ -65,7 +59,6 @@ mac-6-add-sp-link
 - [Debugging Video](https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing)
 
 
-
 ## Emotional Intelligence training
 
 - [Emotional intelligence at work: Why IQ isn't everything](https://youtu.be/7ngIFlmRRPQ)
@@ -82,9 +75,4 @@ mac-6-add-sp-link
 - [Explain Shell](https://explainshell.com/)
   
 
-
-mac-6-add-sp-link
 #### PULL REQUESTS FOR BRAGGING RIGHTS 
-
-
- development
