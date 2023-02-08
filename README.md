@@ -1,6 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
 
+* Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
 ## Contributing to this Repository
 
