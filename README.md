@@ -2,7 +2,7 @@
 k-6-youtube-workshops
 * Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
 k-6-youtube-workshops
-*  adding some tfswitch vedio. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+*  adding some tfswitch video. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
 
 ##  Terraform Video Resources
 * From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
