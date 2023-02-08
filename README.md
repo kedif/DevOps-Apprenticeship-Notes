@@ -22,6 +22,8 @@
 
 ## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 
+## useful terraform cheat sheet 
+- [terraform-cheat-sheet2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
 
 ## Markdown on Github
 
