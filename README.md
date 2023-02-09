@@ -5,11 +5,6 @@
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 2dcd4a2e8e67b74a541b4163d94db3d8172396b2
-## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
 
@@ -19,7 +14,7 @@
 
 *All combined notes, links and documents are listed below:
 
-<<<<<<< HEAD
+
 ## Useful documents, DevOps resource link and Git Cheat sheet
 
 ![Alt text](https://i.imgur.com/Q5EKfNY.jpg)
@@ -29,8 +24,8 @@
 #### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
 #### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)https://i.imgur.com/Q5EKfNY.jpg
 #### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
-=======
->>>>>>> 2dcd4a2e8e67b74a541b4163d94db3d8172396b2
+
+
 #### [Github Documentation](https://docs.github.com/en/github)
 #### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
 #### [Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
@@ -39,13 +34,11 @@
 
 
 
-<<<<<<< HEAD
-=======
+
 ## Git Commands
 
 ### 1. Docs
 - [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
->>>>>>> 2dcd4a2e8e67b74a541b4163d94db3d8172396b2
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
