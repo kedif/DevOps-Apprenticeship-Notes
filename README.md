@@ -22,7 +22,7 @@
 ![Alt text](https://i.imgur.com/bh8rIQq.jpg)
 
 #### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
-#### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)https://i.imgur.com/Q5EKfNY.jpg
+#### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 #### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
 
 
