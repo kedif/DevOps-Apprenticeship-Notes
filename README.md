@@ -26,7 +26,12 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
 ## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
+## Resolving merge conflict on pull request 
+   - [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
+
+## useful terraform cheat sheet 
+- [terraform-cheat-sheet2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
 
 ## Markdown on Github
 
