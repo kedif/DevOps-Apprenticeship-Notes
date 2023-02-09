@@ -1,9 +1,10 @@
 # DevOps-Apprenticeship-Notes
 
 
+
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
-## Contributing to this Repository
+
 
 * Error: Permission denied (publickey info
 https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey
@@ -16,6 +17,26 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
 *All combined notes, links and documents are listed below:
+
+
+## Useful documents, DevOps resource link and Git Cheat sheet
+
+![Alt text](https://i.imgur.com/Q5EKfNY.jpg)
+
+![Alt text](https://i.imgur.com/bh8rIQq.jpg)
+
+#### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
+#### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+#### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
+
+
+#### [Github Documentation](https://docs.github.com/en/github)
+#### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
+#### [Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
+#### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+#### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
+
+
 
 
 ## Git Commands
@@ -65,7 +86,6 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 - [Debugging Video](https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing)
 
 
-
 ## Emotional Intelligence training
 
 - [Emotional intelligence at work: Why IQ isn't everything](https://youtu.be/7ngIFlmRRPQ)
@@ -82,5 +102,4 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 - [Explain Shell](https://explainshell.com/)
   
 
-
-
+#### PULL REQUESTS FOR BRAGGING RIGHTS 
