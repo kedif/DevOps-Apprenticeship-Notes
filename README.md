@@ -4,7 +4,7 @@
 
 * CodeAcademy: Learn the Command Line https://www.codecademy.com/learn/learn-the-command-line 
 
-* Automate the Boring Stuff https://automatetheboringstuff.com/ 
+* Automate the Boring Stuff https://automatetheboringstuff.com/
 
 ## Contributing to this Repository
 
