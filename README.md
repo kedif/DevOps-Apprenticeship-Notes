@@ -1,5 +1,14 @@
 # DevOps-Apprenticeship-Notes
 
+* Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
+
+* adding some tfswitch video. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+
+* SSO Doc https://aws.amazon.com/what-is/sso/
+
+  
+Terraform Cheat Sheet 
+* https://www.google.com/search?q=exampro+terraform&ei=Nn_IY5GcIoe70PEPzu62qAQ&oq=exam[…]wAHgAgAGTAYgBxwKSAQMyLjGYAQCgAQHIAQPAAQE&sclient=gws-wiz-serp
 
 ## Contributing to this Repository
 
