@@ -4,6 +4,7 @@
 
 * adding some tfswitch video. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
 
+* SSO Doc https://aws.amazon.com/what-is/sso/
 
   
 Terraform Cheat Sheet 
