@@ -55,14 +55,12 @@
 - [From Hashicorp](https://www.youtube.com/watch?v=YcJ9IeukJL8)
 - [Freecodecamp](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 - [8 Best Pratices](https://www.youtube.com/watch?v=gxPykhPxRW0)
-- [Learn terraform ](https://youtu.be/iRaai1IBlB0)
+- [Learn terraform](https://youtu.be/iRaai1IBlB0)
 
 ### 2. Docs
 - [Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
 
 - [Cheat Sheet 2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
-
-
 
 ## Docker 
 
