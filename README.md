@@ -14,14 +14,17 @@ https://www.youtube.com/watch?v=gx311756mmmkdkdj
 
 
 
+## Contributing to this Repository
 
+# Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
-* Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
 
 k-6-youtube-workshops
 ## Contributing to this Repository
+Terraform useful link: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
+Terraform video link: https://www.youtube.com/watch?v=YcJ9IeukJL8
 
 development
 
@@ -58,6 +61,8 @@ development
 #### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
 #### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
+
+#### [CodeAcademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
 ## Git Commands
 
@@ -120,3 +125,5 @@ development
 #### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
 
 #### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
+
+#### [Automate the Boring Stuff](https://automatetheboringstuff.com/)
