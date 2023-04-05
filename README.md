@@ -2,7 +2,12 @@
 
 ## Contributing to this Repository
 
-* Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
+# Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
+
+
+Terraform useful link: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+
+Terraform video link: https://www.youtube.com/watch?v=YcJ9IeukJL8
 
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
