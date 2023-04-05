@@ -1,5 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
+* CodeAcademy: Learn Git & GitHub https://www.codecademy.com/learn/learn-git
 
 
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
