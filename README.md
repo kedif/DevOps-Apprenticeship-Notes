@@ -1,7 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
 ## Contributing to this Repository
-=======
 
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
@@ -40,7 +39,7 @@
 
 #### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
 
-#### [CodeAcademy: Learn the Command Line] (https://www.codecademy.com/learn/learn-the-command-line)
+#### [CodeAcademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 
 ## Git Commands
 
@@ -104,4 +103,4 @@
 
 #### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
-#### [Automate the Boring Stuff] (https://automatetheboringstuff.com/)
+#### [Automate the Boring Stuff](https://automatetheboringstuff.com/)
